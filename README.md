@@ -32,7 +32,7 @@ The tuned neural network was selected as the final model, though the margin over
 ## Running locally
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/Purityj/credit_risk_classifier.git
 cd credit-risk-classifier
 pip install -r requirements.txt
 streamlit run app/app.py
