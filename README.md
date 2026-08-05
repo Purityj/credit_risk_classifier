@@ -2,7 +2,7 @@
 
 A machine learning project predicting whether a credit card client will default on their payment next month, using the [UCI Default of Credit Card Clients Dataset](https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset) (30,000 clients, 23 features). Built to demonstrate an end-to-end classification workflow: EDA, preprocessing, baseline modeling, a TensorFlow neural network, hyperparameter tuning, and deployment.
 
-**🔗 Live app:** [link once deployed]
+**[🔗 Live app](https://credit-risk-classifier-pj.streamlit.app/)**
 
 ## Problem
 
